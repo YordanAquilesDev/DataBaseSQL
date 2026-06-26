@@ -1,0 +1,5 @@
+INSERT
+UPDATE
+
+
+DELETE
